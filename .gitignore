@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/Monitoring-Webapiclient/v17/TestStore/0
+/.vs/Monitoring-Webapiclient/v17
+/.vs
+/Demo-WebAPIClient/.vs/Demo-WebAPIClient/v17
+/Demo-WebAPIClient/Demo-WebAPIClient/bin/Debug/netcoreapp3.1
+/Demo-WebAPIClient/Demo-WebAPIClient/obj

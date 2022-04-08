@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Demo-WebAPIClient": {
+      "commandName": "Project",
+      "commandLineArgs": "-u https://dev-we-carfix-webapp.azurewebsites.net -d Home/Index -c BE -y 2022"
+    }
+  }
+}
